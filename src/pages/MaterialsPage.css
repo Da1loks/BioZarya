@@ -1,0 +1,10 @@
+.materials-page {
+  min-height: 100vh;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background-color: #000;
+}
+
+.materials-page main {
+  position: relative;
+} 

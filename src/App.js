@@ -3,7 +3,7 @@ import './App.css';
 import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import { HashRouter, Routes, Route, Link } from 'react-router-dom';
 import Bones from './pages/Bones';
 
 function App() {
@@ -231,7 +231,7 @@ function App() {
   };
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <header className="header">
           <nav className="navigation">
@@ -291,7 +291,7 @@ function App() {
           </div>
         </footer>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

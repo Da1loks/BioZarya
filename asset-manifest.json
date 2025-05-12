@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/BioZarya/static/css/main.51190a1b.css",
-    "main.js": "/BioZarya/static/js/main.2f825c9d.js",
-    "static/js/453.145534b6.chunk.js": "/BioZarya/static/js/453.145534b6.chunk.js",
+    "main.css": "/BioZarya/static/css/main.24678ab3.css",
+    "main.js": "/BioZarya/static/js/main.1dc1803f.js",
     "index.html": "/BioZarya/index.html",
-    "main.51190a1b.css.map": "/BioZarya/static/css/main.51190a1b.css.map",
-    "main.2f825c9d.js.map": "/BioZarya/static/js/main.2f825c9d.js.map",
-    "453.145534b6.chunk.js.map": "/BioZarya/static/js/453.145534b6.chunk.js.map"
+    "main.24678ab3.css.map": "/BioZarya/static/css/main.24678ab3.css.map",
+    "main.1dc1803f.js.map": "/BioZarya/static/js/main.1dc1803f.js.map"
   },
   "entrypoints": [
-    "static/css/main.51190a1b.css",
-    "static/js/main.2f825c9d.js"
+    "static/css/main.24678ab3.css",
+    "static/js/main.1dc1803f.js"
   ]
 }

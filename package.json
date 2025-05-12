@@ -19,7 +19,7 @@
     "three": "^0.150.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://biozarya.ru",
+  "homepage": "https://da1loks.github.io/BioZarya",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
